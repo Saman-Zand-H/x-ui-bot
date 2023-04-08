@@ -13,6 +13,10 @@ export SSL_PRIVATE=<path to ssl private key file>
 export URL=<your server's domain in addition to the port, example: example.tld:port>
 ```
 3. run ```python
-  pip install -r requirements.txt```
+  pip install -r requirements.txt
+```
 4. run ```bash
-  chmod +x clients.py && ./clients.py```
+  chmod +x clients.py && ./clients.py
+```
+
+# PLEASE NOTE THAT THIS BOT IS STILL INCOMPLETE. I AM TO ADD A BOT FOR ADMINS THROUGH WHICH YOU CAN MANAGE THE ACCOUNTS AS WELL. SO PLEASE BE PATIENT AND FOLLOW THIS REPOSITORY IF YOU ARE THIRSTY FOR THIS APP.
