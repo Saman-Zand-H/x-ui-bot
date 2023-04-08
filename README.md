@@ -12,10 +12,12 @@ export SSL_PUBLIC=<path to ssl public key file>
 export SSL_PRIVATE=<path to ssl private key file>
 export URL=<your server's domain in addition to the port, example: example.tld:port>
 ```
-3. run ```python
+3. run 
+```python
   pip install -r requirements.txt
 ```
-4. run ```bash
+4. run 
+```bash
   chmod +x clients.py && ./clients.py
 ```
 
